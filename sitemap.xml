@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+
+  <url>
+    <loc>https://sentinellink.in/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sentinellink.in/#/login</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sentinellink.in/#/signup</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sentinellink.in/#/app/dashboard</loc>
+    <priority>0.5</priority>
+  </url>
+<url>
+  <loc>https://sentinellink.in/windows-link-alternative</loc>
+</url>
+
+<url>
+  <loc>https://sentinellink.in/kde-connect-alternative</loc>
+</url>
+
+<url>
+  <loc>https://sentinellink.in/clipboard-sync-windows-android</loc>
+</url>
+
+<url>
+  <loc>https://sentinellink.in/chat-with-pdf-ai</loc>
+</url>
+
+<url>
+  <loc>https://sentinellink.in/handwritten-pdf-to-word</loc>
+</url>
+</urlset>
